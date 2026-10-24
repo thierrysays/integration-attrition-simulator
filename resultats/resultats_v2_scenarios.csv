@@ -1,0 +1,16 @@
+structure,scenario,spirale,eff_min,avancement,dette,revenu_perdu,departs_cles,departs_autres,reprise
+freelance_distribue,base,0.0,0.9738,0.9364,0.2522,0.0069,0.275,3.35,0.022
+freelance_distribue,sans_prime,0.0,0.9706,0.922,0.2605,0.0072,0.775,3.4,0.0295
+freelance_distribue,sans_budget,0.0,0.9081,0.8756,0.3003,0.0078,0.475,3.2,0.0246
+freelance_distribue,sans_parallele,0.0,0.9688,1.0,0.0128,0.0842,0.375,4.425,0.0276
+freelance_distribue,sans_aucun_levier,0.0,0.8725,0.9653,0.157,0.0999,1.05,4.05,0.0371
+freelance_regroupe,base,0.0,0.975,1.0,0.0,0.0042,0.3,2.975,0.0178
+freelance_regroupe,sans_prime,0.0,0.9731,1.0,0.0,0.0042,0.725,2.975,0.0231
+freelance_regroupe,sans_budget,0.0,0.92,0.995,0.0518,0.0045,0.325,2.875,0.0178
+freelance_regroupe,sans_parallele,0.0,0.9675,1.0,0.0,0.073,0.475,4.85,0.0251
+freelance_regroupe,sans_aucun_levier,0.0,0.8638,1.0,0.0138,0.079,1.1,4.35,0.0329
+salaries_regroupes,base,0.0,0.9725,1.0,0.0006,0.0042,0.375,3.375,0.0179
+salaries_regroupes,sans_prime,0.0,0.9681,1.0,0.0082,0.0043,0.95,3.3,0.0256
+salaries_regroupes,sans_budget,0.0,0.9144,0.9921,0.0747,0.0046,0.25,3.175,0.017
+salaries_regroupes,sans_parallele,0.0,0.9688,1.0,0.0,0.0728,0.525,4.925,0.0221
+salaries_regroupes,sans_aucun_levier,0.0,0.8606,0.9979,0.0208,0.0798,1.175,4.4,0.0348
