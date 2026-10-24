@@ -1,8 +1,12 @@
-# Integration attrition simulator / Simulateur d'attrition d'intégration
+# Technology integration attrition simulator / Simulateur d'attrition d'intégration technologique
 
-Agent-based model of a post-acquisition integration: a team of 40 engineers, a 156-week migration, ongoing operations running in parallel, and departures that feed back on schedule and uncertainty. All numerical values are **synthetic**. The model explores mechanisms and compares scenarios. It produces no forecast. The reference case is anonymised.
+Agent-based model of the technology integration that follows an acquisition: a team of 40 engineers, a 156-week migration, ongoing operations running in parallel, and departures that feed back on schedule and uncertainty. All numerical values are **synthetic**. The model explores mechanisms and compares scenarios. It produces no forecast. The reference case is anonymised.
 
-Modèle à base d'agents d'une intégration post-acquisition : une équipe de 40 ingénieurs, une migration de 156 semaines, l'exploitation courante menée en parallèle, et des départs qui rétroagissent sur le calendrier et l'incertitude. Toutes les valeurs numériques sont **synthétiques**. Le modèle explore des mécanismes et compare des scénarios. Il ne produit aucune prévision. Le cas de référence est anonymisé.
+Modèle à base d'agents de l'intégration technologique qui suit une acquisition : une équipe de 40 ingénieurs, une migration de 156 semaines, l'exploitation courante menée en parallèle, et des départs qui rétroagissent sur le calendrier et l'incertitude. Toutes les valeurs numériques sont **synthétiques**. Le modèle explore des mécanismes et compare des scénarios. Il ne produit aucune prévision. Le cas de référence est anonymisé.
+
+Complete guide, bilingual, with the cause map, the assumptions table and a glossary: https://www.glossolalie.pro/simulateur-integration.html
+
+Guide complet, bilingue, avec la carte des causes, le tableau des hypothèses et un glossaire : https://www.glossolalie.pro/simulateur-integration.html
 
 ## Install / Installation
 
